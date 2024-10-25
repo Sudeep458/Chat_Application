@@ -5,3 +5,5 @@ This chat application was developed using Node.js, Express, and Socket.io, lever
 ## Project Overview
 
 This chat application establishes a full-duplex communication channel between the client and server, allowing instant data transmission in both directions. While WebSockets can be implemented natively, this project utilizes Socket.io, a popular library that simplifies WebSocket setup and provides a fallback to HTTP long polling when necessary, enhancing connectivity reliability.
+
+### Features
